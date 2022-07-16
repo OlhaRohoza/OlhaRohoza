@@ -37,18 +37,18 @@ I’m from Ukraine <img src="https://github.com/madebybowtie/FlagKit/blob/master
 ![](https://img.shields.io/badge/Frameworks-Laravel-yellow)
 
 ### Databases
-![](https://img.shields.io/badge/Databases-MySQL-orange)
-![](https://img.shields.io/badge/Databases-MariaDB-orange)
+![](https://img.shields.io/badge/Databases-MySQL-green)
+![](https://img.shields.io/badge/Databases-MariaDB-green)
 
 <details>
 <summary>More skills</summary>
 <br />
 
 ### Tools
-![](https://img.shields.io/badge/Tools-VSCode-red)
-![](https://img.shields.io/badge/Tools-WebPack-red)
-![](https://img.shields.io/badge/Tools-NPM-red)
-![](https://img.shields.io/badge/Tools-GitHub-red)
+![](https://img.shields.io/badge/Tools-VSCode-darkred)
+![](https://img.shields.io/badge/Tools-WebPack-darkred)
+![](https://img.shields.io/badge/Tools-NPM-darkred)
+![](https://img.shields.io/badge/Tools-GitHub-darkred)
 
 ### Processes
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
