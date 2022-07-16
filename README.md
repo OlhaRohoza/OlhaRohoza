@@ -23,11 +23,11 @@ I’m changing my career path and currently finishing my final project at the Co
 ## My Skills
 
 ### Code
-![](https://img.shields.io/badge/Code-HTML-blue)
 ![](https://img.shields.io/badge/Code-JavaScript-blue)
 ![](https://img.shields.io/badge/Code-PHP-blue)
-![](https://img.shields.io/badge/Code-SQL-blue)
+![](https://img.shields.io/badge/Code-HTML-blue)
 ![](https://img.shields.io/badge/Code-CSS-blue)
+![](https://img.shields.io/badge/Code-SQL-blue)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Frameworks-React.js-yellow)
@@ -46,7 +46,6 @@ I’m changing my career path and currently finishing my final project at the Co
 ![](https://img.shields.io/badge/Tools-WebPack-red)
 ![](https://img.shields.io/badge/Tools-NPM-red)
 ![](https://img.shields.io/badge/Tools-GitHub-red)
-![](https://img.shields.io/badge/Tools-Figma-red)
 
 ### Processes
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
