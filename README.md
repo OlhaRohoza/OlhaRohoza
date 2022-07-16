@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 My name is Olha, I am a Junior Web Developer.
 
-I’m changing my career path and currently finishing my final project at the Coding Boot Camp Praha (Data4You). My technical skills include working knowledge of programming languages such as JavaScript and PHP, hands-on experience with HTML and CSS/SCSS, basic understanding of SQL and databases. In addition, I work with frameworks Laravel and React.js, a version control system such as GitHub. I understand Agile and Kanban concepts. I'm a good team player and can participate in different roles. I’m not looking for a high salary, I’m interested in professional grow and interesting projects to work at. I’m from Ukraine, but currently I live in the Netherlands. 
+I’m changing my career path and currently finishing my final project at the Coding Boot Camp Praha (Data4You). 
 
+My technical skills include working knowledge of programming languages such as JavaScript and PHP, hands-on experience with HTML and CSS/SCSS, basic understanding of SQL and databases. In addition, I work with frameworks Laravel and React.js, a version control system such as GitHub. I understand Agile, Scrum and Kanban concepts. I'm a good team player and can participate in different roles. I’m not looking for a high salary, I’m interested in professional grow and interesting projects to work at. 
+
+I’m from Ukraine <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/SVG/UA.svg?style=flat" />, but currently I live in the Netherlands <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/SVG/NL.svg?style=flat" />. 
 
 ## My Skills
 
@@ -51,7 +54,12 @@ I’m changing my career path and currently finishing my final project at the Co
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Kanban-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
-![](https://img.shields.io/badge/Processes-Mentoring-yellowgreen)
+
+### Soft skills
+![](https://img.shields.io/badge/SoftSkills-Teamwork-yellow)
+![](https://img.shields.io/badge/SoftSkills-Timemanagement-yellow)
+![](https://img.shields.io/badge/SoftSkills-Planning-yellow)
+![](https://img.shields.io/badge/SoftSkills-Mentoring-yellow)
 
 </details>
 
