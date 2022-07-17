@@ -40,6 +40,9 @@ I’m from Ukraine <img src="https://github.com/madebybowtie/FlagKit/blob/master
 ![](https://img.shields.io/badge/Databases-MySQL-green)
 ![](https://img.shields.io/badge/Databases-MariaDB-green)
 
+### API
+![](https://img.shields.io/badge/API-Postman-greygreen)
+
 <details>
 <summary>More skills</summary>
 <br />
